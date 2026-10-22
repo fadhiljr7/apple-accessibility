@@ -1,0 +1,16 @@
+{
+  "name": "apple-accessibility",
+  "owner": {
+    "name": "fadhiljr7"
+  },
+  "metadata": {
+    "description": "Claude skill that brings any Apple-platform app up to Apple's Accessibility Nutrition Labels criteria."
+  },
+  "plugins": [
+    {
+      "name": "apple-accessibility",
+      "source": "./",
+      "description": "Accessibility Nutrition Labels for any Apple-platform app: audit, choose, implement, verify, declare."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+a11y-shots/
+*.skill
+dist/
+brag-output/

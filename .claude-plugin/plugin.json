@@ -1,0 +1,10 @@
+{
+  "name": "apple-accessibility",
+  "version": "1.0.0",
+  "description": "Audit any Apple-platform app against Apple's Accessibility Nutrition Labels, pick features with the arrow keys, implement and verify them, and get exactly what to declare in App Store Connect.",
+  "author": { "name": "fadhiljr7" },
+  "homepage": "https://github.com/fadhiljr7/apple-accessibility",
+  "repository": "https://github.com/fadhiljr7/apple-accessibility",
+  "license": "MIT",
+  "keywords": ["accessibility", "ios", "swiftui", "app-store", "voiceover", "dynamic-type", "dark-mode", "reduce-motion", "a11y"]
+}
