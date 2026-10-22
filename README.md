@@ -195,7 +195,6 @@ Claude re-verifies every label you claimed before. Labels must stay accurate wit
 ## What's inside
 
 ```
-assets/                         # Launch film (compressed.mp4) + poster used in this README
 skills/apple-accessibility/
 ├── SKILL.md                    # The workflow: timing, audit, choice, implement, verify, declare
 ├── references/
