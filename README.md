@@ -10,13 +10,7 @@ It works with SwiftUI, UIKit, AppKit, React Native / Expo, Flutter, Unity, Capac
 
 <p align="center"><i>"The developer indicated that this app supports the following accessibility features."</i><br>This skill makes sure that sentence is true.</p>
 
-## Watch the launch film (60 s)
-
-[![Apple-Accessibility launch film: click to watch](assets/apple-accessibility-launch.jpg)](assets/apple-accessibility-launch.mp4)
-
-<p align="center"><a href="assets/apple-accessibility-launch.mp4"><b>▶ Play the 60-second launch film</b></a> · 1080p · narrated</p>
-
----
+[![Apple-Accessibility launch film: click to watch](assets/apple-accessibility-launch.jpg)](assets/compressed.mp4)
 
 ## Why
 
@@ -201,7 +195,7 @@ Claude re-verifies every label you claimed before. Labels must stay accurate wit
 ## What's inside
 
 ```
-assets/                         # Launch film + poster used in this README
+assets/                         # Launch film (compressed.mp4) + poster used in this README
 skills/apple-accessibility/
 ├── SKILL.md                    # The workflow: timing, audit, choice, implement, verify, declare
 ├── references/
