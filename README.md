@@ -10,7 +10,7 @@ It works with SwiftUI, UIKit, AppKit, React Native / Expo, Flutter, Unity, Capac
 
 <p align="center"><i>"The developer indicated that this app supports the following accessibility features."</i><br>This skill makes sure that sentence is true.</p>
 
-[![Apple-Accessibility launch film: click to watch](assets/apple-accessibility-launch.jpg)](assets/compressed.mp4)
+[![Apple-Accessibility launch film: click to watch](assets/compressed.mp4)]
 
 ## Why
 
